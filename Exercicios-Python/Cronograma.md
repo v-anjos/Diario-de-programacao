@@ -19,11 +19,11 @@ Pequenos códigos e exercícios
   - 500 <= salario <= 1000 : 10%
   - > 1000 : 5%
 
-  # Dia 4 
+# Dia 4 
   
    Melhorar/Atuallizar o Readme.md
 
-   # Dia 5 
+# Dia 5 
 
    Calculadora de área de figulrads geométricas 
   
