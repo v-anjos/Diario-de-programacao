@@ -25,12 +25,6 @@
 ### Linguagens mais usadas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-anjos&layout=compact&theme=radical)
 
-### Visualizações do perfil
-![Profile Views](https://komarev.com/ghpvc/?username=v-anjos&label=Visualizações+do+Perfil)
-
-### Badges adicionais
-![Python](https://img.shields.io/badge/python-3.x-blue?logo=python)
-![GitHub](https://img.shields.io/badge/github-perfil-black?logo=github)
 
 ---
 
@@ -56,9 +50,4 @@
 
 🔜 Dia 10 → Mini-projeto consolidando tudo
 
-🌐 Contato
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
-
-GitHub: @v-anjos
 
