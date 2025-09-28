@@ -1,14 +1,14 @@
 Pequenos códigos e exercícios
 
-# Dia 1 - Calculadora de Reajuste Salarial
+# Dia 1 
 
   Ajustar seu README de perfil
 
-# Dia 2 - Calculadora de Reajuste Salarial
+# Dia 2 
 
   Criar repositório Diário de Programação (Markdown + pastas organizadas).
 
-# Dia 3 - Calculadora de Reajuste Salarial
+# Dia 3 
 
   Publicar primeiro código simples em Python (ex: “Calculadora de reajuste salarial”).
   
@@ -24,4 +24,6 @@ Pequenos códigos e exercícios
   2. Digite o comando:
 
      ```bash
-     python 02_calculadora_Reajuste.py  
+     python 02_calculadora_Reajuste.py
+
+  # Dia 4 Melhorar/Atuallizar o Readme.md
