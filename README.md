@@ -28,7 +28,7 @@
 
 ✅ Dia 4 → Melhorando o README
 
-🔜 Dia 5 → Estruturas de repetição
+✅ Dia 5 → Calculadora de Área
 
 🔜 Dia 6 → Listas e manipulação de dados
 
