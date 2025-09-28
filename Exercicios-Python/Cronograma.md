@@ -19,11 +19,20 @@ Pequenos códigos e exercícios
   - 500 <= salario <= 1000 : 10%
   - > 1000 : 5%
 
-  ## Como executar
-  1. Abra o terminal na pasta onde o arquivo está salvo.  
-  2. Digite o comando:
+  # Dia 4 
+  
+   Melhorar/Atuallizar o Readme.md
 
-     ```bash
-     python 02_calculadora_Reajuste.py
+  # Dia 5
 
-  # Dia 4 Melhorar/Atuallizar o Readme.md
+   Calculadora de área de figulrads geométricas 
+  
+   Este projeto implementa uma **calculadora de áreas de figuras geométricas** em Python.  
+
+   Funcionalidades
+    - Cálculo da área de:
+    - Círculo
+    - Retângulo
+    - Triângulo
+    - Interface simples no terminal
+
